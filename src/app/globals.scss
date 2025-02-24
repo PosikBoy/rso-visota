@@ -1,0 +1,13 @@
+@import "@/styles/main.scss";
+
+.page {
+  font-family: var(--font-pangolin-sans), sans-serif;
+  font-size: 16px;
+  color: var(--color-white);
+}
+
+.container {
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 1400px;
+}
